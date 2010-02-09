@@ -1,0 +1,7 @@
+.panelHeader{
+    border: none;
+    margin: 2px 0px 2px 0px;
+    background: transparent;
+    
+    background-image: none !important;
+}
